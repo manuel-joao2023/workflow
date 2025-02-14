@@ -68,3 +68,5 @@ O sistema é baseado em um conjunto de entidades interconectadas, permitindo que
 - **Ativo**: Indica se a execução está ativa.
 - **Status**: Estado da execução no workflow.
 - **IsLocked**: Indica se a execução está bloqueada.
+
+![image](https://github.com/user-attachments/assets/9242e4f6-956e-410f-8982-e0a378fef351)
